@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @addy-luna
+- 👋 Hi, I’m <b>@addy-luna</b>
 - 👀 I’m interested in code, new books to read, food, and anime.
-- 🌱 I’m currently learning CLI and Python.
+- 🌱 I’m currently learning basics of HTML & CSS and Python.
 - 💞️ I’m looking to collaborate on new projects to add to my portfolio.
 - 📫 How to reach me: email - lunaaddy21@gmail.com
 
