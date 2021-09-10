@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@addy-luna</b>(Adela Tatum, or Addy)!
 - 👀 I’m interested in code, new books to read, food, and anime.
-- 🌱 I’m currently learning basics of HTML & CSS and JavaScript.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on new projects to add to my portfolio.
 - 📫 How to reach me: email - addy.tatum10@gmail.com
 
