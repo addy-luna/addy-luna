@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
+
 - 👋 Hi, I’m <b>@addy-luna</b>(Adela Tatum, or Addy)!
 - 👀 I’m interested in code, new books to read, food, and anime.
 - 🌱 I’m currently working on JavaScript.
