@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=addy-luna&color=brightgreen" alt="watching_count" />
 
 
 - 👋 Hi, I’m <b>@addy-luna</b>(Adela Tatum, or Addy)!
