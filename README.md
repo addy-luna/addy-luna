@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna" alt="addy-luna" /></a> </p>
 
-- 🔭 I’m currently working on [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT)
+- 🔭 I’m currently working on - [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT)
 
-- 🌱 I’m currently learning **JavaScript, Ajax, and Node**
+- 🌱 I’m currently learning - **JavaScript, Ajax, and Node**
 
-- 📫 How to reach me **addy.tatum10@gmail.com**
+- 📫 How to reach me - **addy.tatum10@gmail.com**
 
-- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/1BLA6b0s1Pv2qp9IV048AlhSoko9_HSia/view?usp=sharing)
+- 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/1BLA6b0s1Pv2qp9IV048AlhSoko9_HSia/view?usp=sharing)
 
-- ⚡ Fun fact **I love anime, and reading new books, and I am a total foodie!**
+- ⚡ Fun fact - **I love anime, and reading new books, and I am a total foodie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
