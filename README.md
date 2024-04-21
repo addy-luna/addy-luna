@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna" alt="addy-luna" /></a> </p>
 
-- 🔭 I’m currently working on - [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT)
+- 🔭 I’m currently working on - [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT) == Implementing new features: add a card, form to add a new card, add 'like' button, delete a card, open picture modal, make sure smooth opening and closing of modals.
 
 - 🌱 I’m currently learning - **JavaScript, Ajax, and Node**
 
