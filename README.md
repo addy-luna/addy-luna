@@ -11,7 +11,7 @@
 
 - 📫 How to reach me - **addy.tatum10@gmail.com**
 
-- 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/1BLA6b0s1Pv2qp9IV048AlhSoko9_HSia/view?usp=sharing)
+- 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/10yGAhO4RYmKblTch4PaCyHbpm_AZKuUv/view?usp=sharing)
 
 - ⚡ Fun fact - **I love anime, and reading new books, and I am a total foodie!**
 
