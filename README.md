@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on - [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT) == Implementing new features: add a card, form to add a new card, add 'like' button, delete a card, open picture modal, make sure smooth opening and closing of modals.
 
-- 🌱 I’m currently learning - **JavaScript, Ajax, and Node**
+- 👾 I’m currently working with - **JavaScript**
+
+- 🌱 I’m currently learning - **React and Node**
 
 - 📫 How to reach me - **addy.tatum10@gmail.com**
 
