@@ -9,7 +9,7 @@
 
 - 👾 I’m currently working with - **JavaScript**
 
-- 🌱 I’m currently learning - **React and Node**
+- 🌱 I’m currently learning - **C#, React, and Node**
 
 - 📫 How to reach me - **addy.tatum10@gmail.com**
 
