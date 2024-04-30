@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/10yGAhO4RYmKblTch4PaCyHbpm_AZKuUv/view?usp=sharing)
 
-- ⚡ Fun fact - **I love anime, and reading new books, and I am a total foodie!**
+- ⚡ Fun fact - **I love anime, reading new books, and I am a total foodie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
