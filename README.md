@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna" alt="addy-luna" /></a> </p>
 
 - 🔭 I’m currently working on:
-  - [Around The US App](https://github.com/addy-luna/se_project_aroundtheus_AT) = Implementing new features: add a card, form to add a new card, add 'like' button, delete a card, open picture modal, make sure smooth opening and closing of modals.
-  - [Task Manager App](https://github.com/addy-luna/C--University-Course) = Designing an initial model for data in the application, creating a flowchart that shows the flow of data within the app, and sketching up a low-fidelity prototype of interactions within the app.  
+  - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) = Implementing new features: add a card, form to add a new card, add 'like' button, delete a card, open picture modal, make sure smooth opening and closing of modals.
+  - [Task Manager App - C#](https://github.com/addy-luna/C--University-Course) = Designing an initial model for data in the application, creating a flowchart that shows the flow of data within the app, and sketching up a low-fidelity prototype of interactions within the app.  
 
 - 👾 I’m currently working with - **JavaScript and C#**
 
