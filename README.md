@@ -10,7 +10,7 @@
   - [Task Manager CLI - NodeJS and CommanderJS] = adding commands (CRUD)
  
 
-- 👾 I’m currently working with - **JavaScript and C#**
+- 👾 I’m currently working with - **JavaScript**
 
 - 🌱 I’m currently learning - **React and Node**
 
