@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna" alt="addy-luna" /></a></p>
 
 - 🔭 I’m currently working on:
-  - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) = Objects and Event Handling in JavaScript
+  - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) 
 
-- 👾 I’m currently working with - **JavaScript**
+- 👾 I’m currently working with - **JavaScript -- Objects and Event Handling in JavaScript**
 
 - 🌱 I’m currently learning - **React and Node**
 
