@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-luna&label=Profile%20views&color=0e75b6&style=flat" alt="addy-luna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna" alt="addy-luna" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna&theme=chalk&column=3&margin-w=15&margin-h=15" alt="addy-luna" /></a></p>
 
 - 🔭 I’m currently working on:
   - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) 
