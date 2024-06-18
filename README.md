@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on:
   - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) 
 
-- 👾 I’m currently working with - **JavaScript -- Objects and Event Handling in JavaScript**
+- 👾 I’m currently working with - **JavaScript -- Objects and Event Handling in JavaScript (Sprint 6 in SWE Bootcamp)**
 
-- 🌱 I’m currently learning - **React and Node**
+- 🌱 I’m currently learning - **React, Node, and C#**
 
 - 📫 How to reach me - **addy.tatum10@gmail.com**
 
