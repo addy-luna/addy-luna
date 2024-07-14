@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning - **React, Node, and C#**
 
-- 📫 How to reach me - **addy.tatum10@gmail.com**
+- 📫 How to reach me - **addytatumtech@gmail.com**
 
 - 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/10yGAhO4RYmKblTch4PaCyHbpm_AZKuUv/view?usp=sharing)
 
