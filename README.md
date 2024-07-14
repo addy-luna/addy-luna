@@ -6,9 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna&theme=chalk&column=3&margin-w=15&margin-h=15" alt="addy-luna" /></a></p>
 
 - 🔭 I’m currently working on:
-  - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT) 
+  - [Around The US App - JavaScript](https://github.com/addy-luna/se_project_aroundtheus_AT)
+  - Google Chrome Extension - HTML, CSS, JavaScript, and Firebase
 
-- 👾 I’m currently working with - **JavaScript -- Objects and Event Handling in JavaScript (Sprint 6 in SWE Bootcamp)**
+- 👾 I’m currently working with - **JavaScript**
 
 - 🌱 I’m currently learning - **React, Node, and C#**
 
